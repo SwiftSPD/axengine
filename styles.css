@@ -1,0 +1,12 @@
+
+selector
+{
+font-family: 'Noto Sans Lepcha', sans-serif;  
+ 
+ @font-face {
+  font-family: "Open Sans";
+  src: url("OpenSans.ttf");
+
+
+ 
+}
